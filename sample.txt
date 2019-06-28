@@ -1,3 +1,0 @@
-Hi there
-
-This is inside the first commit branch
